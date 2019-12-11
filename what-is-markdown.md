@@ -59,7 +59,7 @@ Utiliser l'indentation (TAB) pour décaller le niveau de liste.
   * `*` Item 2
   * `*` Item 3
   
-Vous pouvez également imbriquer vos liste: 
+Vous pouvez également imbriquer vos listes: 
 
 * Patron
     * Employé
