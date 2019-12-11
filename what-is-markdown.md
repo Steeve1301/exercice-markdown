@@ -3,8 +3,8 @@
 ![BeCode logo](https://www.becode.org/register/assets/images/logo_Becode.png)
 
 #### ==> MENU <==  
-[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/master/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/master/continue-with-markdown.md)
----------------------- | ----------------------
+[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/master/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/master/continue-with-markdown.md) | [Read Me](https://github.com/Steeve1301/exercice-markdown/blob/master/readme.md)  
+---------------------- | ---------------------- | ----------------------
 
 ## 1. Qu'est-ce que le **Markdown** ?
 -----------------------------------
