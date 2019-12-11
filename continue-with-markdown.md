@@ -41,6 +41,7 @@
 
 
 ![Bravo](https://media3.giphy.com/media/ytTYwIlbD1FBu/giphy.gif)
+
 Tu maitrises désormais toutes les base du markdown!
 
 **Tuto réalisé en salle d'apprentissage chez [BeCode](https://www.becode.org/)**
