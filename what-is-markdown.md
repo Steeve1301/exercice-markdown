@@ -1,5 +1,5 @@
 # Le Markdown  
-###### par Geoffrey, Jonathan, Steeve et Yassine.  
+###### par @Geoffrey-becode, @j-pard, @Steeve1301 et @YassBouk.  
 ![BeCode logo](https://www.becode.org/register/assets/images/logo_Becode.png)
 
 #### ==> MENU <==  
