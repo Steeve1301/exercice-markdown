@@ -1,4 +1,4 @@
-Le project contient une description de Markdow.
+Le project contient une description de Markdow.  
 C'est une explication de comment fonctionne MarkDown et un guide pour l'utiliser.
 
 Fait par le "groupe 4", [Jonathan](https://github.com/j-pard) ,[Geoffrey](https://github.com/Geoffrey-becode) ,[Yassine](https://github.com/YassBouk) et [Steeve](https://github.com/Steeve1301)
