@@ -91,8 +91,7 @@ Vous pouvez également imbriquer vos liste:
  [Wikipedia](www.wikipedia.org)
 
 * ## Citations :
-> `>` Seul on va plus vite,  
-> `>` Ensemble, on va plus loin.
+> `>` Seul on va plus vite, ensemble, on va plus loin.
 
 * ## Ligne de code :
 \` Mettre la balise de code entre \`
