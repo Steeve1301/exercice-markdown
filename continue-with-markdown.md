@@ -12,7 +12,8 @@
 
      Pour utiliser la coloration synthaxique, il suffit d'englober le code par 3 accents graves  suivi du language du code! Exemple:
 
-\`\`\` javascript 
+\`\`\` javascript  
+``` javascript
 <script type="text/javascript">
     alert("Hello!");
 </script>
