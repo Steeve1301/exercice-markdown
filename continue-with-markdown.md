@@ -1,10 +1,10 @@
-# Le Markdown  
-###### par @Geoffrey-becode, @j-pard, @Steeve1301 et @YassBouk.  
+# Le Markdown  (suite)
+###### par Geoffrey, Jonathan, Steeve et Yassine.  
 ![BeCode logo](https://www.becode.org/register/assets/images/logo_Becode.png)
 
 #### ==> MENU <==  
-[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/master/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/master/continue-with-markdown.md) | [Read Me](https://github.com/Steeve1301/exercice-markdown/blob/master/readme.md)  
----------------------- | ---------------------- | ----------------------
+[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/master/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/master/continue-with-markdown.md)
+---------------------- | ----------------------
 
  # 4. Allez plus loin avec Markdown ?
 
@@ -20,6 +20,26 @@
 ```
 \`\`\` 
 * ## Liste de tâches :
+
+### Membres du groupe 4
+
+- [ ] Yassine S
+- [x] Yassine B
+- [x] Steeve
+- [x] Geoffrey
+- [ ] Stéphane
+- [ ] Soufiane
+- [x] Jonathan
+
+```
+- [ ] Yassine S
+- [x] Yassine B
+- [x] Steeve
+- [x] Geoffrey
+- [ ] Stéphane
+- [ ] Soufiane
+- [x] Jonathan
+```
 
 * ## Tableaux :
 
