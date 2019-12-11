@@ -8,24 +8,39 @@
 
  # 4. Allez plus loin avec Markdown ?
 
-* ## Syntaxe spécifique au code :
+* ## Coloration synthaxique :
 
+     Pour utiliser la coloration synthaxique, il suffit d'englober le code par 3 accents graves  suivi du language du code! Exemple:
+
+``` javascript 
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+```
 * ## Liste de tâches :
 
 * ## Tableaux :
-> `En-tête 1 | En-tête 2`  
-> `------------ | -------------`  
-> `Contenu cellule 1 | Contenu cellule 2`  
-> `Contenu 1ere colonne | Contenu 2ere colonne `  
 
-En-tête 1 | En-tête 2
------------- | -------------
-Contenu cellule 1 | Contenu cellule 2
-Contenu 1ere colonne | Contenu 2ere colonne
+ Choix1     |     Choix2      |   Choix3    |
+------------|   ------------- |  ---------  |
+ Choix X    |        1        |     valeur  |
+ Choix Y    |        2        |     valeur  |
+ Choix Z    |        3        |     valeur  |
+
+``` Choix1     |     Choix2      |   Choix3    |
+------------|   ------------- |  ---------  |
+ Choix X    |        1        |     valeur  |
+ Choix Y    |        2        |     valeur  |
+ Choix Z    |        3        |     valeur  |
+ ```
+
 
 * ## Mentions :
 
 * ## Emoji :
 
 
-![Deal with it](https://media2.giphy.com/media/Ent2j55lyQipa/giphy.gif?cid=790b76116d473ad2eadb090db08f1a343a6a8e2765e7c63c&rid=giphy.gif)
+![Bravo](https://media3.giphy.com/media/ytTYwIlbD1FBu/giphy.gif)
+Tu maitrises désormais toutes les base du markdown!
+
+**Tuto réalisé en salle d'apprentissage chez [BeCode](https://www.becode.org/)**
