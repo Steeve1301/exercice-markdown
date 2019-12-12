@@ -1,4 +1,4 @@
-# Le Markdown  
+# <span style="color:blue">Le Markdown  </span>
 ###### par @Geoffrey-becode, @j-pard, @Steeve1301 et @YassBouk.  
 ![BeCode logo](https://www.becode.org/register/assets/images/logo_Becode.png)
 
